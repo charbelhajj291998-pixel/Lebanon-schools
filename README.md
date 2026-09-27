@@ -1,6 +1,6 @@
 # Lebanon's schools: public vs private
 
-**Live app:** https://lebanon-schools-msba325.streamlit.app
+**Live app:** https://lebanon-schools--msba325.streamlit.app
 
 MSBA 325 · Streamlit interactivity activity · Charbel Youssef El Hajj
 
